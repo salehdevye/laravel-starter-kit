@@ -38,7 +38,7 @@ class DashboardController extends Controller
         $provider = new Salla([
             'clientId'     => '028d5ed393850a56ea251d69822986fa', // The client ID assigned to you by Salla
             'clientSecret' => 'd5d0e1ab321a825ffefee42675edcca1', // The client password assigned to you by Salla
-            'redirectUri'  => 'http://127.0.0.1:8000/oauth/callback/', // the url for current page in your service
+            'redirectUri'  => 'http://127.0.0.1:8000/callback_url', // the url for current page in your service
         ]);
 
         /**

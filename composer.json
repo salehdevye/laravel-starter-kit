@@ -14,7 +14,7 @@
         "laravel/tinker": "^2.5",
         "laravel/ui": "~v3.4.6",
         "lorisleiva/laravel-actions": "^2.1",
-        "salla/ouath2-merchant": "^1.0",
+        "salla/ouath2-merchant": "^1.4",
         "tightenco/ziggy": "^1.0"
     },
     "require-dev": {
